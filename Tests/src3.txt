@@ -1,0 +1,17 @@
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+print a 
+                                                    print z

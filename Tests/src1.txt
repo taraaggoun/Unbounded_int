@@ -1,0 +1,14 @@
+a =897
+a = a * a
+a = a - 7867
+
+print a
+b =  9898
+      b = 3 * b
+a=a - b
+print a
+         
+
+print        b
+c=        a - -56554
+print c

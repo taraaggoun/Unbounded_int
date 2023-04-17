@@ -1,0 +1,14 @@
+
+print c
+
+    a = a + 2
+
+print a
+
+a =         a - 4
+b = a * -9
+
+
+
+
+print b

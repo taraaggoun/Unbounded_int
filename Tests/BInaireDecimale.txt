@@ -1,0 +1,9 @@
+print a
+a = 80
+
+print a
+binaire a
+
+b = 101
+decimale b
+print b

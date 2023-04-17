@@ -1,0 +1,14 @@
+a= 12
+b= a % 5
+print b
+                                    nbc = 15
+        d = nbc / b
+
+
+
+
+
+    print d
+print a
+
+                                                             print fnhdkdnehjk

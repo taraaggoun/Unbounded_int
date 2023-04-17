@@ -1,0 +1,32 @@
+abcdefghijklmnopqrstuvyz = 120000000000000000012628
+print abcdefghijklmnopqrstuvyz
+poiuytreza = 1426280
+nzzbzn = poiuytreza - 80
+print nzzbzn
+var123456789 = +132
+var234567890 = -156729
+var345678901 = 19028
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               var4567890123 = -1282928272
+
+
+
+
+
+
+
+
+        print a 
+                                 print  var23456789
+
+                    print poiuytreza
